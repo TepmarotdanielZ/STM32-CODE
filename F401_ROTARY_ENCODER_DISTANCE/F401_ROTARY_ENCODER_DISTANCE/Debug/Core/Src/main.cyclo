@@ -1,0 +1,5 @@
+../Core/Src/main.c:89:8:read_encoder	5
+../Core/Src/main.c:115:5:main	2
+../Core/Src/main.c:169:6:SystemClock_Config	3
+../Core/Src/main.c:214:8:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main.c:228:6:Error_Handler	1
