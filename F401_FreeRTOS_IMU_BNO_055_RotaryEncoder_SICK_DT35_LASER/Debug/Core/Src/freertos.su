@@ -1,0 +1,10 @@
+../Core/Inc/bno055_stm32.h:20:6:bno055_assignI2C	16	static
+../Core/Inc/bno055_stm32.h:24:6:bno055_delay	16	static
+../Core/Inc/bno055_stm32.h:32:6:bno055_writeData	40	static
+../Core/Inc/bno055_stm32.h:96:6:bno055_readData	24	static
+../Core/Src/freertos.c:122:8:read_encoder	16	static
+../Core/Src/freertos.c:193:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:244:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:263:6:IMU_BNO_055	16	static
+../Core/Src/freertos.c:322:6:RotaryEncoder	16	static
+../Core/Src/freertos.c:352:6:SICK_DT35_LASER	16	static
