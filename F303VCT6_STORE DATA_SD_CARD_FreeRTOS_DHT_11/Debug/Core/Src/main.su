@@ -1,0 +1,7 @@
+../Core/Src/main.c:85:6:ADC_Task	16	static
+../Core/Src/main.c:98:6:DHT_Task	16	static
+../Core/Src/main.c:115:6:SDCARD_Task	32	static
+../Core/Src/main.c:143:5:main	16	static
+../Core/Src/main.c:219:6:SystemClock_Config	128	static
+../Core/Src/main.c:276:6:HAL_TIM_PeriodElapsedCallback	24	static,ignoring_inline_asm
+../Core/Src/main.c:313:6:Error_Handler	4	static,ignoring_inline_asm
