@@ -1,0 +1,15 @@
+../Core/Src/NRF24L01.c:27:13:nrf24_WriteReg	24	static
+../Core/Src/NRF24L01.c:39:13:nrf24_WriteReg_Multi	24	static
+../Core/Src/NRF24L01.c:54:16:nrf24_ReadReg	24	static
+../Core/Src/NRF24L01.c:70:13:nrf24_ReadReg_Multi	16	static
+../Core/Src/NRF24L01.c:81:13:nrfsendCmd	16	static
+../Core/Src/NRF24L01.c:89:6:nrf24_reset	40	static
+../Core/Src/NRF24L01.c:136:6:NRF24_Init	8	static
+../Core/Src/NRF24L01.c:165:6:SetRF	24	static
+../Core/Src/NRF24L01.c:188:6:NRF24_TxMode	24	static
+../Core/Src/NRF24L01.c:217:9:NRF24_Transmit	24	static
+../Core/Src/NRF24L01.c:252:6:NRF24_RxMode	24	static
+../Core/Src/NRF24L01.c:287:9:isDataAvailable	24	static
+../Core/Src/NRF24L01.c:303:9:DataReady	24	static
+../Core/Src/NRF24L01.c:313:9:RxFifoEmpty	16	static
+../Core/Src/NRF24L01.c:320:6:NRF24_Receive	24	static
