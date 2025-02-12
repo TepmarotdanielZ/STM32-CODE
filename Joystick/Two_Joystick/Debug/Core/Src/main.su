@@ -1,0 +1,6 @@
+main.c:86:11:map	56	static
+main.c:92:9:Joystick	8	static
+main.c:125:9:Joystick_1	8	static
+main.c:171:5:main	8	static
+main.c:264:6:SystemClock_Config	88	static
+main.c:311:6:Error_Handler	4	static,ignoring_inline_asm
